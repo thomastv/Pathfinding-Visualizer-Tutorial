@@ -1,6 +1,5 @@
 This project is meant to be a tutorial for Clement Mihailescu's [Pathfinding Visualizer project](https://github.com/clementmihailescu/Pathfinding-Visualizer).
 
-Everything related to the tutorial (i.e., all the code that I, Clement, wrote) is located under /src/PathfindingVisualizer and /src/algorithms. The PathfindingVisualizer component is imported and rendered in App.js.
 
 If you want to work off of this base to create your own Pathfinding Visualizer, feel free to fork this project or to just copy-paste code. Also, subscribe to my [YouTube channel](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) if you haven't already, and smash the like button on all my videos. Oh, and check out [AlgoExpert](https://www.algoexpert.io/product) if you're preparing for coding interviews.
 
@@ -74,3 +73,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
