@@ -14,6 +14,8 @@ export default class Node extends Component {
       onMouseUp,
       row,
     } = this.props;
+\\The classname is changed according to the state and
+\\CSS animations are used accordingly.
     const extraClassName = isFinish
       ? 'node-finish'
       : isStart
